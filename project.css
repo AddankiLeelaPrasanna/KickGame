@@ -1,0 +1,16 @@
+.container{
+    background-size: 100% 100%;
+    background-image: url("https://static.storyweaver.org.in/illustrations/58827/search/14.jpg"); 
+    background-repeat: no-repeat;
+}
+h1{
+    font-style: italic;
+    color: coral;
+}
+h2{
+    font-family: 'Lucida';
+}
+p{
+    font-style: italic;
+    color: cornflowerblue;
+}
